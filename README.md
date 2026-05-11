@@ -27,7 +27,7 @@ Based on [MaxSTM3.6](https://onstep.groups.io/g/main/wiki/26597) by hdutton, lic
 
 
 ## Images
-<img src="./imgs/pcb4.png" width="70%" height="auto">
+<img src="./imgs/pcb3d.png" width="70%" height="auto">
 <img src="./imgs/pcb1.png" width="70%" height="auto">
 <img src="./imgs/pcb2.png" width="70%" height="auto">
 <img src="./imgs/pcb3.png" width="70%" height="auto">
