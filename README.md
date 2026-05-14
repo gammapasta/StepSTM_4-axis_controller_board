@@ -19,7 +19,7 @@ Based on [MaxSTM3.6](https://onstep.groups.io/g/main/wiki/26597) by hdutton, lic
 - Selectable UART or SPI driver communication
 - Integrated MOSFET ideal diode reverse polarity protection
 - Wi-Fi connectivity
-- RS-485 interface
+- Wired UART connectivity (isolated power)
 - Modular driver configuration
 - OnStep compatible
 - TMC driver support
